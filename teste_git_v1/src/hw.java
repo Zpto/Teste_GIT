@@ -3,12 +3,11 @@ public class hw {
 
 	/**
 	 * documentação teste
-	 * teste 2
 	 */
 	public static void hellow() {
 		
 		//Serve de teste
-		String x = "testePedro";
+		String x = "ola mundo2";
 		System.out.print(x+"\n");
 		
 	}
